@@ -51,6 +51,12 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
+.CAPT:hover{
+    background-color: aqua;
+    color: peru;
+    border: 3px, blanchedalmond;
+    filter: blur(1px);
+}
 /*table*/
 .table,th,td {
     border: 2px solid;
