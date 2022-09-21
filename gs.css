@@ -51,6 +51,23 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
+/*table*/
+.table,th,td {
+    border: 2px solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+  }
+  tr:nth-child(odd) {
+    background-color: #8F9AA5;
+
+  }
+  tr:nth-child(even) {
+    background-color: bisque;
+  }
+    
+
 
 
 
